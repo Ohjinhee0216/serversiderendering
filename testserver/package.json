@@ -1,0 +1,22 @@
+{
+  "name": "testserver",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "cookie-parser": "^1.4.5",
+    "debug": "^2.6.9",
+    "express": "^4.16.4",
+    "http-errors": "^1.6.3",
+    "morgan": "^1.9.1",
+    "papaparse": "^5.3.1",
+    "pug": "^2.0.0-beta11",
+    "vega": "^5.20.2",
+    "vega-canvas": "^1.2.6",
+    "vega-embed": "^6.18.2",
+    "vega-lite": "^5.1.0"
+  }
+}
